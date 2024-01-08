@@ -32,3 +32,27 @@ max_pooling2d_15 (MaxPooling (None, 12, 12, 128)       0
 flatten_3 (Flatten)         (None, 18432)             0         
 ```
 
+## Data Visualization :
+
+![countplot-2](https://github.com/Bhavana7370/Mammograms-Classification/assets/121118344/309c12fa-adec-4118-b7d1-8554d94fea62)
+
+![countplot-1](https://github.com/Bhavana7370/Mammograms-Classification/assets/121118344/b4280f6f-80e4-4755-941d-be32c1cf537a)
+
+![countplot0](https://github.com/Bhavana7370/Mammograms-Classification/assets/121118344/89fb5fa5-6cb5-48dd-95b5-89745fe2aed0)
+
+![countplot1](https://github.com/Bhavana7370/Mammograms-Classification/assets/121118344/2f4df53b-62bb-44b4-86db-6f5aa73a4b4a)
+
+![countplot2](https://github.com/Bhavana7370/Mammograms-Classification/assets/121118344/df310499-93f7-40b0-a7be-3b0602bbb438)
+
+## Displaying images first five images in the dataset:
+
+![displaying_images](https://github.com/Bhavana7370/Mammograms-Classification/assets/121118344/23cc7001-6e02-4726-99dd-85dc7eaea353)
+
+## Loss & Accuracy:
+
+![accuracy](https://github.com/Bhavana7370/Mammograms-Classification/assets/121118344/ba48568f-8f72-44ee-b443-a1212496b3aa)
+
+
+
+
+
