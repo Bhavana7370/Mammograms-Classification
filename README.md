@@ -33,26 +33,39 @@ flatten_3 (Flatten)         (None, 18432)             0
 ```
 
 ## Data Visualization :
+![counter3](https://github.com/Bhavana7370/Mammograms-Classification/assets/121118344/3c4a2953-df10-4368-8e2a-8e8ffec86e4d)
 
-![countplot-2](https://github.com/Bhavana7370/Mammograms-Classification/assets/121118344/309c12fa-adec-4118-b7d1-8554d94fea62)
+![counter4](https://github.com/Bhavana7370/Mammograms-Classification/assets/121118344/14ee2ac1-a42a-41a6-8fc9-77b78740159f)
 
-![countplot-1](https://github.com/Bhavana7370/Mammograms-Classification/assets/121118344/b4280f6f-80e4-4755-941d-be32c1cf537a)
+![counter5](https://github.com/Bhavana7370/Mammograms-Classification/assets/121118344/67e9ddae-0c92-4099-af43-004fc4c64ea6)
 
-![countplot0](https://github.com/Bhavana7370/Mammograms-Classification/assets/121118344/89fb5fa5-6cb5-48dd-95b5-89745fe2aed0)
+![counter-1](https://github.com/Bhavana7370/Mammograms-Classification/assets/121118344/3d07d364-d6d3-4a52-b100-064fc0064299)
 
-![countplot1](https://github.com/Bhavana7370/Mammograms-Classification/assets/121118344/2f4df53b-62bb-44b4-86db-6f5aa73a4b4a)
+![counter-2](https://github.com/Bhavana7370/Mammograms-Classification/assets/121118344/b8360b34-5f9c-4ddd-adb4-27171a23fd2a)
 
-![countplot2](https://github.com/Bhavana7370/Mammograms-Classification/assets/121118344/df310499-93f7-40b0-a7be-3b0602bbb438)
+
+
 
 ## Displaying images first five images in the dataset:
+![displaying_images1](https://github.com/Bhavana7370/Mammograms-Classification/assets/121118344/f1cd83a0-2fc1-4530-8e41-e37fd9c35acd)
 
-![displaying_images](https://github.com/Bhavana7370/Mammograms-Classification/assets/121118344/23cc7001-6e02-4726-99dd-85dc7eaea353)
+![displaying_images2](https://github.com/Bhavana7370/Mammograms-Classification/assets/121118344/6583ff85-6c92-4b6c-9d17-def30b878a2b)
+
+
 
 ## Loss & Accuracy:
 
 ![accuracy](https://github.com/Bhavana7370/Mammograms-Classification/assets/121118344/ba48568f-8f72-44ee-b443-a1212496b3aa)
 
 
+
+## Loss Curves:
+
+![model-1](https://github.com/Bhavana7370/Mammograms-Classification/assets/121118344/264159f7-25d3-4299-9be7-ad73f2e437c8)
+
+![model-2](https://github.com/Bhavana7370/Mammograms-Classification/assets/121118344/95e271e7-99cd-46e6-a90c-8dc3a2ecd609)
+
+![model-3](https://github.com/Bhavana7370/Mammograms-Classification/assets/121118344/9f2e9d30-a7c1-47b5-b2af-0a1ea2d5eaaa)
 
 
 
